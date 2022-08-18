@@ -1,7 +1,6 @@
+recipe
 
-How are you?
+kheer
+gulab jamun
 
-
-what are you doing?
-
-ok bye
+poha
